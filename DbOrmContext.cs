@@ -8,6 +8,7 @@ using Day_11.Models;
 //Add new comments
 namespace Day_11.DAL
 {
+//this is comment
     [DbConfigurationType (typeof(MySqlEFConfiguration))]
     public class DbOrmContext : DbContext //derived from DbContext
     {
