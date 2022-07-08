@@ -5,7 +5,7 @@ using System.Web;
 using System.Data.Entity;
 using MySql.Data.EntityFramework;
 using Day_11.Models;
-
+//Add new comments
 namespace Day_11.DAL
 {
     [DbConfigurationType (typeof(MySqlEFConfiguration))]
